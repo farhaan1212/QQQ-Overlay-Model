@@ -1,7 +1,7 @@
 # QQQ-Overlay-Model
 ## Analysis Workflow & Key Findings
 
-This Jupyter Notebook documents a comprehensive, iterative research process for developing and validating a quantitative risk overlay for QQQ, culminating in a final, robustness-enhanced strategy suitable for paper trading:
+My Jupyter Notebook documents a comprehensive, iterative research process for developing and validating a quantitative risk overlay for QQQ, culminating in a final, robustness-enhanced strategy suitable for paper trading:
 
 1.  ****Baseline Model:** Implemented an initial strategy using online machine learning and risk controls.
 2.  **Initial Backtest:** Showed potentially optimistic results.
