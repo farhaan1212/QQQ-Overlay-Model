@@ -17,4 +17,4 @@ My Jupyter Notebook documents a comprehensive, iterative research process for de
     * **Improved Concentration:** Successfully reduced reliance on top trades.
     * **Passed Robustness Gauntlet:** Successfully passed final automated audit checks, including leakage, temporal stability (LOYO), **advanced bootstrap methods (e.g., Marcos Lopez de Prado's techniques)**, and transaction cost resilience (Net Sharpe > 0.8 @ 25bps).
 9.  **Conclusion:** Through an iterative process focused on validation and robustness, the research successfully developed and rigorously validated a quantitative overlay strategy (`U_live`). It demonstrates a statistically significant, cost-resilient edge with mitigated concentration risk, passing final checks deeming it suitable for paper trading evaluation.
-10. **Visualizations:** Includes plots comparing performance across the different stages of refinement and analysis.**
+10. **Visualisations:** Includes plots comparing performance across the different stages of refinement and analysis.**
