@@ -6,7 +6,7 @@ My Jupyter Notebook documents a comprehensive, iterative research process for de
 1.  ****Baseline Model:** Implemented an initial strategy using online machine learning and risk controls.
 2.  **Initial Backtest:** Showed potentially optimistic results.
 3.  **Rigorous Walk-Forward Test:** Applied a gated walk-forward protocol which revealed significant overfitting and OOS performance degradation for the raw baseline model.
-4.  **Regime Diagnostics:** Analyzed the OOS failure, identifying specific market conditions where the core logic showed potential.
+4.  **Regime Diagnostics:** Analysed the OOS failure, identifying specific market conditions where the core logic showed potential.
 5.  **Rule Refinement & Validation:** Systematically tested, optimised, and performed strict OOS validation of filtered trading rules ('Rule A', 'Union') achieving strong *gross* OOS performance (Sharpe ~1.35).
 6.  **Extensive Robustness Audit:** Subjected the refined 'Union' strategy to a battery of tests (Leakage, Sensitivity, DSR/PSR, Purged CV, Sub-period, Costs, Bootstrap, Concentration), confirming statistical significance after costs but initially flagging **concentration risk** and statistical uncertainty.
 7.  **Concentration Mitigation & Final Optimisation:** Implemented and optimised ("robustness-aware search") specific **dynamic position capping logic ('smart-cap')** explicitly designed to reduce the strategy's dependence on outlier trades identified in the audit.
